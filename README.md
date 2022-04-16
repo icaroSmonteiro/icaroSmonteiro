@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @icaroSmonteiro
+- 👀 I’m interested in learn new features, new tecnologies and new leanguages...
+- 🌱 I’m currently learning C#, HTML5, CSS3 and JavaScript...
+- 💞️ I’m looking to collaborate on new projects and studies to develop my knowledgebase and crates networks...
+- 📫 How to reach me:
+  Email: icarosilvamonteiro@gmail.com
+  Instagram: @icaro_smonteiro
+  LinkedIn: www.linkedin.com/in/icaro-smonteiro...
+
+<!---
+icaroSmonteiro/icaroSmonteiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
